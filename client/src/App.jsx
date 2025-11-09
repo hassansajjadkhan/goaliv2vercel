@@ -44,7 +44,7 @@ import CoachFundraiserManager from "./Pages/dashboard/Coach/CoachFundraiserManag
 import SignupMasterAdmin from "./Pages/Authentication/SignupMasterAdmin"
 import Payments from "./Pages/NavDropdownPages/Payments"
 import PrivacyPolicy from "./Pages/NavDropdownPages/PrivacyPolicy"
-import Terms from "./Pages/NavDropdownPages/terms"
+import Terms from "./Pages/NavDropdownPages/Terms"
 
 function LandingPage() {
   const navigate = useNavigate()
